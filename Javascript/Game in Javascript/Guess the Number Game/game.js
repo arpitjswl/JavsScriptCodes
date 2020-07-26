@@ -68,4 +68,4 @@ function validateInput(str) {
     return true;
   else
     return false;
-}
+}// added comment1
