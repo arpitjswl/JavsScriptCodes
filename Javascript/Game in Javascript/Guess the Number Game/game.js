@@ -69,3 +69,4 @@ function validateInput(str) {
   else
     return false;
 }// added comment1
+// new change
