@@ -9,10 +9,4 @@ Commit from github remote master branch
 
 ===============================================
 
-commit from remote GitHub
-
-================================
-
-Commit 1 
-
-
+commit from remote github
