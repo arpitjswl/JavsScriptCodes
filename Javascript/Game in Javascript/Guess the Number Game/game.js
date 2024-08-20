@@ -11,7 +11,7 @@ function checkNumber() {
     document.getElementById("answer").value = answer;
   }
   
-  if(!attempt){ // same as answer = "";
+  if(!attempt){ // same as answer = ""; //Anthony commit
     attempt = 0;
   }
 
